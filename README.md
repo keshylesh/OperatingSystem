@@ -5,6 +5,7 @@
 * make kc
 * make link
 * make run
+* or just use make all
 
 # Implemented
 * Basic print function
